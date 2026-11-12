@@ -1,0 +1,11 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.assets-src/
+release/
+brag-output/
+brag-output-*/
+CLAUDE.md
+AGENTS.md

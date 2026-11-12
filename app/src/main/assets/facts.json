@@ -1,0 +1,1067 @@
+[
+{
+"layer": "skeleton",
+"title": "Skull (frontal bone)",
+"match": "^frontal bone$",
+"fact": "The skull has 22 bones; all but the mandible are locked together by sutures.",
+"anchor": "Frontal bone"
+},
+{
+"layer": "skeleton",
+"title": "Parietal bone",
+"match": "^parietal bone",
+"fact": "The two parietal bones form the roof and sides of the skull."
+},
+{
+"layer": "skeleton",
+"title": "Occipital bone",
+"match": "^occipital bone$",
+"fact": "The spinal cord leaves the skull through the foramen magnum in this bone."
+},
+{
+"layer": "skeleton",
+"title": "Temporal bone",
+"match": "^temporal bone",
+"fact": "Holds the smallest bones in the body, the ear ossicles, deep inside."
+},
+{
+"layer": "skeleton",
+"title": "Mandible",
+"match": "^mandible$",
+"fact": "The jaw is the only skull bone that moves, and the strongest bone of the face.",
+"anchor": "Mandible"
+},
+{
+"layer": "skeleton",
+"title": "Maxilla",
+"match": "^maxilla",
+"fact": "The two maxillae hold the upper teeth and form the floor of each eye socket."
+},
+{
+"layer": "skeleton",
+"title": "Zygomatic bone",
+"match": "^zygomatic bone",
+"fact": "The cheekbone; it forms the outer wall of the eye socket."
+},
+{
+"layer": "skeleton",
+"title": "Nasal bone",
+"match": "^nasal bone",
+"fact": "Only the bridge of the nose is bone; the rest of its shape is cartilage."
+},
+{
+"layer": "skeleton",
+"title": "Teeth",
+"match": "(incisor|canine|premolar|molar)",
+"fact": "Enamel, the outer layer of teeth, is the hardest substance in the human body."
+},
+{
+"layer": "skeleton",
+"title": "Ear ossicles",
+"match": "^(malleus|incus|stapes)",
+"fact": "The stapes, about 3 mm long, is the smallest bone in the body."
+},
+{
+"layer": "skeleton",
+"title": "Hyoid bone",
+"match": "^hyoid",
+"fact": "The only bone that doesn't touch another bone; it anchors the tongue."
+},
+{
+"layer": "skeleton",
+"title": "Clavicle",
+"match": "^clavicle",
+"fact": "The collarbone is the most commonly broken bone in the body.",
+"anchor": "Clavicle.l"
+},
+{
+"layer": "skeleton",
+"title": "Scapula",
+"match": "^scapula",
+"fact": "The shoulder blade attaches to the trunk only through muscles and the clavicle.",
+"anchor": "Scapula.r"
+},
+{
+"layer": "skeleton",
+"title": "Sternum",
+"match": "(sternum|xiphoid)",
+"fact": "The breastbone has three parts: manubrium, body and xiphoid process.",
+"anchor": "Body of sternum"
+},
+{
+"layer": "skeleton",
+"title": "Ribs",
+"match": "(rib\\.|costal cartilage)",
+"fact": "12 pairs: 7 attach straight to the sternum, 3 indirectly, 2 'float' free.",
+"anchor": "Fifth rib.l"
+},
+{
+"layer": "skeleton",
+"title": "Cervical vertebrae",
+"match": "(vertebra c|atlas|axis)",
+"fact": "Seven neck vertebrae, the same count as in a giraffe.",
+"anchor": "Vertebra C5"
+},
+{
+"layer": "skeleton",
+"title": "Thoracic vertebrae",
+"match": "vertebra t",
+"fact": "Twelve vertebrae, each paired with a rib."
+},
+{
+"layer": "skeleton",
+"title": "Lumbar vertebrae",
+"match": "vertebra l",
+"fact": "The five largest vertebrae carry most of the upper body's weight.",
+"anchor": "Vertebra L3"
+},
+{
+"layer": "skeleton",
+"title": "Sacrum",
+"match": "^sacrum$",
+"fact": "Five vertebrae that fuse into one bone between ages 18 and 30.",
+"anchor": "Sacrum"
+},
+{
+"layer": "skeleton",
+"title": "Coccyx",
+"match": "^coccyx$",
+"fact": "The tailbone: 3–5 small fused vertebrae."
+},
+{
+"layer": "skeleton",
+"title": "Pelvis (hip bone)",
+"match": "^hip bone",
+"fact": "Each hip bone is three bones fused together: ilium, ischium and pubis.",
+"anchor": "Hip bone.l"
+},
+{
+"layer": "skeleton",
+"title": "Humerus",
+"match": "^humerus",
+"fact": "The 'funny bone' tingle is the ulnar nerve crossing the back of the humerus's lower end.",
+"anchor": "Humerus.r"
+},
+{
+"layer": "skeleton",
+"title": "Radius",
+"match": "^radius",
+"fact": "Rotates around the ulna to turn the palm up or down.",
+"anchor": "Radius.l"
+},
+{
+"layer": "skeleton",
+"title": "Ulna",
+"match": "^ulna",
+"fact": "Its hook-shaped top, the olecranon, is the point of your elbow."
+},
+{
+"layer": "skeleton",
+"title": "Hand bones",
+"match": "(metacarpal|phalanx of .* of hand|scaphoid|lunate|triquetrum|pisiform|trapezi|capitate|hamate)",
+"fact": "Each hand has 27 bones: 8 carpals, 5 metacarpals and 14 phalanges.",
+"anchor": "Third metacarpal bone.r"
+},
+{
+"layer": "skeleton",
+"title": "Femur",
+"match": "^femur",
+"fact": "The thighbone is the longest and strongest bone in the body.",
+"anchor": "Femur.r"
+},
+{
+"layer": "skeleton",
+"title": "Patella",
+"match": "^patella",
+"fact": "The kneecap is the largest sesamoid bone, a bone that forms inside a tendon.",
+"anchor": "Patella.l"
+},
+{
+"layer": "skeleton",
+"title": "Tibia",
+"match": "^tibia",
+"fact": "The shinbone carries about 85% of the body's weight through the lower leg.",
+"anchor": "Tibia.l"
+},
+{
+"layer": "skeleton",
+"title": "Fibula",
+"match": "^fibula",
+"fact": "Carries little weight; surgeons sometimes harvest it as a bone graft."
+},
+{
+"layer": "skeleton",
+"title": "Foot bones",
+"match": "(talus|calcaneus|navicular|cuboid|cuneiform|metatarsal|of foot|sesamoid)",
+"fact": "Each foot has 26 bones; the calcaneus (heel bone) is the largest.",
+"anchor": "Calcaneus.r"
+},
+{
+"layer": "skeleton",
+"title": "Laryngeal cartilage",
+"match": "(thyroid cartilage|cricoid|arytenoid|corniculate)",
+"fact": "The thyroid cartilage forms the Adam's apple."
+},
+{
+"layer": "muscles",
+"title": "Frontalis",
+"match": "^frontalis",
+"fact": "Raises the eyebrows and wrinkles the forehead."
+},
+{
+"layer": "muscles",
+"title": "Temporalis",
+"match": "^temporalis",
+"fact": "A fan-shaped chewing muscle you can feel at your temple when you clench.",
+"anchor": "Temporalis muscle.l"
+},
+{
+"layer": "muscles",
+"title": "Masseter",
+"match": "masseter",
+"fact": "Relative to its size, one of the strongest muscles in the body; it closes the jaw.",
+"anchor": "Superficial part of masseter.r"
+},
+{
+"layer": "muscles",
+"title": "Orbicularis oculi",
+"match": "orbicularis oculi",
+"fact": "Closes the eyelids; it fires every time you blink."
+},
+{
+"layer": "muscles",
+"title": "Orbicularis oris",
+"match": "orbicularis oris",
+"fact": "The ring muscle that purses the lips."
+},
+{
+"layer": "muscles",
+"title": "Zygomaticus",
+"match": "^zygomaticus",
+"fact": "The main smiling muscle; it pulls the mouth corners up and out."
+},
+{
+"layer": "muscles",
+"title": "Sternocleidomastoid",
+"match": "sternocleidomastoid",
+"fact": "Turns the head to the opposite side and tilts it.",
+"anchor": "Sternocleidomastoid muscle.l"
+},
+{
+"layer": "muscles",
+"title": "Trapezius",
+"match": "trapezius",
+"fact": "Moves, rotates and steadies the shoulder blades.",
+"anchor": "Descending part of trapezius muscle.r"
+},
+{
+"layer": "muscles",
+"title": "Deltoid",
+"match": "deltoid muscle",
+"fact": "Lifts the arm. Its three heads move it forward, sideways and back.",
+"anchor": "Acromial part of deltoid muscle.l"
+},
+{
+"layer": "muscles",
+"title": "Pectoralis major",
+"match": "pectoralis major",
+"fact": "Pulls the arm across the chest; the main muscle used in push-ups.",
+"anchor": "Sternocostal head of pectoralis major muscle.r"
+},
+{
+"layer": "muscles",
+"title": "Pectoralis minor",
+"match": "pectoralis minor",
+"fact": "Lies under pectoralis major and steadies the scapula."
+},
+{
+"layer": "muscles",
+"title": "Serratus anterior",
+"match": "serratus anterior",
+"fact": "The 'boxer's muscle': it drives the shoulder blade forward when you punch.",
+"anchor": "Serratus anterior muscle.l"
+},
+{
+"layer": "muscles",
+"title": "Latissimus dorsi",
+"match": "latissimus dorsi",
+"fact": "The widest muscle of the back; it powers pull-ups and swimming strokes.",
+"anchor": "Latissimus dorsi muscle.r"
+},
+{
+"layer": "muscles",
+"title": "Rhomboids",
+"match": "rhomboid",
+"fact": "Squeeze the shoulder blades together."
+},
+{
+"layer": "muscles",
+"title": "Rotator cuff",
+"match": "(supraspinatus|infraspinatus|teres minor|subscapularis)",
+"fact": "Four muscles that hold the ball of the humerus in its shallow socket."
+},
+{
+"layer": "muscles",
+"title": "Biceps brachii",
+"match": "biceps brachii",
+"fact": "Bends the elbow and turns the palm up, the motion of turning a screwdriver.",
+"anchor": "Long head of biceps brachii.l"
+},
+{
+"layer": "muscles",
+"title": "Triceps brachii",
+"match": "triceps brachii",
+"fact": "Straightens the elbow; it makes up about two thirds of the upper arm's bulk.",
+"anchor": "Lateral head of triceps brachii.r"
+},
+{
+"layer": "muscles",
+"title": "Brachioradialis",
+"match": "brachioradialis",
+"fact": "Bends the elbow most strongly when the thumb points up, as in a hammer curl.",
+"anchor": "Brachioradialis muscle.l"
+},
+{
+"layer": "muscles",
+"title": "Forearm flexors",
+"match": "(flexor (carpi|digitorum|pollicis)|palmaris longus|pronator)",
+"fact": "Most of the muscles that bend your fingers sit in the forearm and act through long tendons."
+},
+{
+"layer": "muscles",
+"title": "Forearm extensors",
+"match": "(extensor (carpi|digitorum|digiti|indicis|pollicis)|supinator|abductor pollicis longus)",
+"fact": "Straighten the wrist and fingers; overuse causes 'tennis elbow'."
+},
+{
+"layer": "muscles",
+"title": "Hand muscles",
+"match": "(lumbrical|interossei|opponens|abductor pollicis brevis|adductor pollicis|flexor digiti minimi of hand|abductor digiti minimi of hand|flexor pollicis brevis)",
+"fact": "Small muscles inside the hand provide fine control. The thumb has its own set."
+},
+{
+"layer": "muscles",
+"title": "Rectus abdominis",
+"match": "rectus abdominis",
+"fact": "The 'six-pack'; tendon bands across it create the segments.",
+"anchor": "Rectus abdominis muscle.l"
+},
+{
+"layer": "muscles",
+"title": "External oblique",
+"match": "external abdominal oblique",
+"fact": "Twists and bends the trunk; its fibres run like hands in front pockets.",
+"anchor": "External abdominal oblique muscle.r"
+},
+{
+"layer": "muscles",
+"title": "Internal oblique / transversus",
+"match": "(internal abdominal oblique|transversus abdominis)",
+"fact": "Deep layers that brace the abdomen like a natural corset."
+},
+{
+"layer": "muscles",
+"title": "Intercostals",
+"match": "intercostal muscles",
+"fact": "Muscles between the ribs that help you breathe."
+},
+{
+"layer": "muscles",
+"title": "Diaphragm",
+"match": "diaphragm",
+"fact": "The main breathing muscle; it flattens to draw air into the lungs."
+},
+{
+"layer": "muscles",
+"title": "Erector spinae",
+"match": "(iliocostalis|longissimus|spinalis)",
+"fact": "Long columns along the spine that keep you upright."
+},
+{
+"layer": "muscles",
+"title": "Gluteus maximus",
+"match": "gluteus maximus",
+"fact": "The largest muscle in the body; it extends the hip when you climb or stand.",
+"anchor": "Gluteus maximus muscle.l"
+},
+{
+"layer": "muscles",
+"title": "Gluteus medius / minimus",
+"match": "gluteus (medius|minimus)",
+"fact": "Keep the pelvis level each time you stand on one leg while walking."
+},
+{
+"layer": "muscles",
+"title": "Iliopsoas",
+"match": "(psoas|iliacus)",
+"fact": "The strongest hip flexor; it lifts the thigh toward the trunk."
+},
+{
+"layer": "muscles",
+"title": "Sartorius",
+"match": "sartorius",
+"fact": "The longest muscle in the body; it crosses the thigh diagonally.",
+"anchor": "Sartorius muscle.r"
+},
+{
+"layer": "muscles",
+"title": "Quadriceps",
+"match": "(rectus femoris|vastus)",
+"fact": "Four muscles that straighten the knee; together the strongest group in the body.",
+"anchor": "Rectus femoris muscle.l"
+},
+{
+"layer": "muscles",
+"title": "Adductors",
+"match": "(adductor (longus|brevis|magnus)|gracilis|pectineus)",
+"fact": "Pull the legs together; 'groin strains' tear these.",
+"anchor": "Adductor longus.r"
+},
+{
+"layer": "muscles",
+"title": "Hamstrings",
+"match": "(biceps femoris|semitendinosus|semimembranosus)",
+"fact": "Three muscles that bend the knee and extend the hip.",
+"anchor": "Long head of biceps femoris.l"
+},
+{
+"layer": "muscles",
+"title": "Tensor fasciae latae",
+"match": "tensor fasciae latae",
+"fact": "Tightens the iliotibial band to steady the knee."
+},
+{
+"layer": "muscles",
+"title": "Tibialis anterior",
+"match": "tibialis anterior",
+"fact": "Lifts the foot. If it is weak, the toes drag ('foot drop').",
+"anchor": "Tibialis anterior muscle.r"
+},
+{
+"layer": "muscles",
+"title": "Gastrocnemius",
+"match": "gastrocnemius",
+"fact": "The calf muscle; it joins the soleus in the Achilles tendon.",
+"anchor": "Medial head of gastrocnemius.l"
+},
+{
+"layer": "muscles",
+"title": "Soleus",
+"match": "soleus",
+"fact": "Called the 'second heart' because it pumps blood back up the leg.",
+"anchor": "Soleus muscle.r"
+},
+{
+"layer": "muscles",
+"title": "Achilles tendon",
+"match": "calcaneal tendon",
+"fact": "The thickest and strongest tendon in the body."
+},
+{
+"layer": "muscles",
+"title": "Fibularis muscles",
+"match": "fibularis",
+"fact": "Turn the sole outward and steady the ankle."
+},
+{
+"layer": "muscles",
+"title": "Platysma",
+"match": "platysma",
+"fact": "A thin sheet over the front of the neck that tenses its skin."
+},
+{
+"layer": "muscles",
+"title": "Tongue muscles",
+"match": "(genioglossus|hyoglossus|styloglossus)",
+"fact": "The tongue is a group of eight muscles with no bone inside."
+},
+{
+"layer": "muscles",
+"title": "Eye muscles",
+"match": "(rectus muscle|oblique muscle|levator palpebrae)",
+"fact": "Six muscles aim each eye and make some of the fastest movements in the body."
+},
+{
+"layer": "arteries",
+"title": "Aorta",
+"match": "(aorta|aortic)",
+"fact": "The largest artery: about 2.5 cm wide where it leaves the heart.",
+"anchor": "Ascending aorta"
+},
+{
+"layer": "arteries",
+"title": "Coronary arteries",
+"match": "coronary",
+"fact": "Supply the heart muscle itself; a blockage here causes a heart attack."
+},
+{
+"layer": "arteries",
+"title": "Common carotid artery",
+"match": "common carotid",
+"fact": "The pulse you feel at the side of your neck.",
+"anchor": "Left common carotid artery"
+},
+{
+"layer": "arteries",
+"title": "Internal carotid artery",
+"match": "internal carotid",
+"fact": "Supplies most of the blood to the front of the brain and the eye."
+},
+{
+"layer": "arteries",
+"title": "External carotid artery",
+"match": "external carotid",
+"fact": "Supplies the face, scalp and jaws."
+},
+{
+"layer": "arteries",
+"title": "Vertebral artery",
+"match": "vertebral artery",
+"fact": "Runs up through holes in the neck vertebrae to the back of the brain."
+},
+{
+"layer": "arteries",
+"title": "Circle of Willis",
+"match": "(cerebral artery|communicating artery|basilar artery|cerebral arterial)",
+"fact": "A ring of arteries under the brain that reroutes blood if one artery is blocked."
+},
+{
+"layer": "arteries",
+"title": "Subclavian artery",
+"match": "subclavian artery",
+"fact": "Carries blood under the collarbone into each arm.",
+"anchor": "Right subclavian artery"
+},
+{
+"layer": "arteries",
+"title": "Axillary artery",
+"match": "axillary artery",
+"fact": "The armpit section of the main arm artery."
+},
+{
+"layer": "arteries",
+"title": "Brachial artery",
+"match": "brachial artery",
+"fact": "The artery a blood-pressure cuff presses on.",
+"anchor": "Brachial artery.l"
+},
+{
+"layer": "arteries",
+"title": "Radial artery",
+"match": "radial artery",
+"fact": "The pulse you take at the wrist, on the thumb side.",
+"anchor": "Radial artery.r"
+},
+{
+"layer": "arteries",
+"title": "Ulnar artery",
+"match": "ulnar artery",
+"fact": "Joins the radial artery in arches across the palm."
+},
+{
+"layer": "arteries",
+"title": "Pulmonary trunk & arteries",
+"match": "pulmonary (trunk|artery)|artery of (right|left) lung|lobar artery|segmental artery of",
+"fact": "The only arteries that carry oxygen-poor blood, from the heart to the lungs.",
+"anchor": "Pulmonary trunk"
+},
+{
+"layer": "arteries",
+"title": "Coeliac trunk",
+"match": "coeliac|celiac",
+"fact": "Feeds the stomach, liver and spleen."
+},
+{
+"layer": "arteries",
+"title": "Renal artery",
+"match": "renal artery",
+"fact": "About a fifth of the heart's output goes to the kidneys.",
+"anchor": "Left renal artery"
+},
+{
+"layer": "arteries",
+"title": "Mesenteric arteries",
+"match": "mesenteric artery",
+"fact": "Supply the intestines."
+},
+{
+"layer": "arteries",
+"title": "Common iliac artery",
+"match": "common iliac artery",
+"fact": "The aorta splits into these two at about navel level.",
+"anchor": "Common iliac artery.r"
+},
+{
+"layer": "arteries",
+"title": "Femoral artery",
+"match": "femoral artery",
+"fact": "The main artery of the thigh; you can feel its pulse in the groin.",
+"anchor": "Femoral artery.l"
+},
+{
+"layer": "arteries",
+"title": "Popliteal artery",
+"match": "popliteal artery",
+"fact": "Runs behind the knee."
+},
+{
+"layer": "arteries",
+"title": "Tibial arteries",
+"match": "tibial artery",
+"fact": "Supply the lower leg; the posterior one has a pulse behind the ankle bone.",
+"anchor": "Anterior tibial artery.r"
+},
+{
+"layer": "arteries",
+"title": "Dorsalis pedis",
+"match": "dorsal(is)? (artery of foot|pedis)",
+"fact": "A pulse on top of the foot that doctors check for circulation."
+},
+{
+"layer": "veins",
+"title": "Superior vena cava",
+"match": "superior vena cava",
+"fact": "Returns blood from the head, neck and arms to the heart.",
+"anchor": "Superior vena cava"
+},
+{
+"layer": "veins",
+"title": "Inferior vena cava",
+"match": "inferior vena cava",
+"fact": "The largest vein; it returns blood from the lower body.",
+"anchor": "Inferior vena cava (abdominal part)"
+},
+{
+"layer": "veins",
+"title": "Internal jugular vein",
+"match": "internal jugular",
+"fact": "Drains the brain; sometimes visible pulsing in the neck.",
+"anchor": "Internal jugular vein.r"
+},
+{
+"layer": "veins",
+"title": "External jugular vein",
+"match": "external jugular",
+"fact": "Often visible bulging in the neck when you strain."
+},
+{
+"layer": "veins",
+"title": "Dural venous sinuses",
+"match": "sinus",
+"fact": "Channels between layers of the brain's outer membrane that drain blood from the brain."
+},
+{
+"layer": "veins",
+"title": "Subclavian vein",
+"match": "subclavian vein",
+"fact": "A common entry point for central IV lines."
+},
+{
+"layer": "veins",
+"title": "Brachiocephalic vein",
+"match": "brachiocephalic vein",
+"fact": "The left and right ones join to form the superior vena cava."
+},
+{
+"layer": "veins",
+"title": "Cephalic vein",
+"match": "cephalic vein",
+"fact": "A superficial vein on the thumb side of the arm.",
+"anchor": "Cephalic vein.l"
+},
+{
+"layer": "veins",
+"title": "Basilic vein",
+"match": "basilic vein",
+"fact": "A superficial vein on the little-finger side of the arm.",
+"anchor": "Basilic vein.r"
+},
+{
+"layer": "veins",
+"title": "Median cubital vein",
+"match": "median cubital",
+"fact": "The vein at the inner elbow used for most blood draws."
+},
+{
+"layer": "veins",
+"title": "Pulmonary veins",
+"match": "pulmonary vein|vein of (right|left) lung|lobar vein|segmental vein",
+"fact": "The only veins that carry oxygen-rich blood, from the lungs to the heart."
+},
+{
+"layer": "veins",
+"title": "Hepatic portal vein",
+"match": "portal vein",
+"fact": "Carries nutrient-rich blood from the gut to the liver for processing.",
+"anchor": "Hepatic portal vein"
+},
+{
+"layer": "veins",
+"title": "Renal vein",
+"match": "renal vein",
+"fact": "Returns filtered blood from the kidneys."
+},
+{
+"layer": "veins",
+"title": "Common iliac vein",
+"match": "common iliac vein",
+"fact": "The two join to form the inferior vena cava."
+},
+{
+"layer": "veins",
+"title": "Femoral vein",
+"match": "femoral vein",
+"fact": "The main deep vein of the thigh.",
+"anchor": "Femoral vein.r"
+},
+{
+"layer": "veins",
+"title": "Great saphenous vein",
+"match": "great saphenous",
+"fact": "The longest vein in the body, ankle to groin; often used for heart bypass grafts.",
+"anchor": "Great saphenous vein.l"
+},
+{
+"layer": "veins",
+"title": "Small saphenous vein",
+"match": "small saphenous",
+"fact": "Runs up the back of the calf."
+},
+{
+"layer": "veins",
+"title": "Azygos vein",
+"match": "azygos",
+"fact": "Drains the chest wall and can bypass a blocked vena cava."
+},
+{
+"layer": "organs",
+"title": "Heart",
+"match": "(ventricle|atrium|papillary|leaflet|valve)",
+"fact": "Beats about 100,000 times a day and pumps roughly 7,000 litres of blood.",
+"anchor": "Left ventricle"
+},
+{
+"layer": "organs",
+"title": "Lungs",
+"match": "lobe of (right|left) lung",
+"fact": "The right lung has three lobes and the left has two, leaving room for the heart.",
+"anchor": "Superior lobe of right lung"
+},
+{
+"layer": "organs",
+"title": "Left lung",
+"match": "lobe of left lung",
+"fact": "Has a notch, the cardiac notch, where the heart sits.",
+"anchor": "Inferior lobe of left lung"
+},
+{
+"layer": "organs",
+"title": "Trachea",
+"match": "^trachea$",
+"fact": "The windpipe, kept open by 16–20 C-shaped rings of cartilage.",
+"anchor": "Trachea"
+},
+{
+"layer": "organs",
+"title": "Bronchi",
+"match": "bronch",
+"fact": "The airways branch about 23 times before reaching the air sacs."
+},
+{
+"layer": "organs",
+"title": "Liver",
+"match": "^liver$",
+"fact": "The largest internal organ. It handles more than 500 tasks and can regrow lost tissue.",
+"anchor": "Liver"
+},
+{
+"layer": "organs",
+"title": "Gallbladder",
+"match": "gallbladder|bile duct|cystic duct|hepatic duct",
+"fact": "Stores bile, which helps digest fat.",
+"anchor": "Gallbladder"
+},
+{
+"layer": "organs",
+"title": "Stomach",
+"match": "^stomach$",
+"fact": "Its acid is about as strong as lemon juice or stronger; a mucus layer keeps it from digesting itself.",
+"anchor": "Stomach"
+},
+{
+"layer": "organs",
+"title": "Oesophagus",
+"match": "oesophagus|esophagus",
+"fact": "Muscle waves push food to the stomach in about 7 seconds, even upside down.",
+"anchor": "Oesophagus"
+},
+{
+"layer": "organs",
+"title": "Spleen",
+"match": "^spleen$",
+"fact": "Filters old red blood cells and stores immune cells.",
+"anchor": "Spleen"
+},
+{
+"layer": "organs",
+"title": "Pancreas",
+"match": "pancrea",
+"fact": "Makes digestive enzymes and the hormones insulin and glucagon.",
+"anchor": "Pancreas"
+},
+{
+"layer": "organs",
+"title": "Kidneys",
+"match": "kidney|renal pelvis",
+"fact": "Together they filter about 180 litres of blood plasma a day into 1–2 litres of urine.",
+"anchor": "Kidney.l"
+},
+{
+"layer": "organs",
+"title": "Adrenal glands",
+"match": "suprarenal gland",
+"fact": "Sit on top of the kidneys and make adrenaline and cortisol."
+},
+{
+"layer": "organs",
+"title": "Ureters",
+"match": "ureter",
+"fact": "Muscular tubes that carry urine from the kidneys to the bladder."
+},
+{
+"layer": "organs",
+"title": "Urinary bladder",
+"match": "urinary bladder",
+"fact": "Usually holds about 400–600 ml.",
+"anchor": "Urinary bladder"
+},
+{
+"layer": "organs",
+"title": "Urethra",
+"match": "urethra",
+"fact": "Carries urine out of the body; it is about 4 cm long in women and 20 cm in men."
+},
+{
+"layer": "organs",
+"title": "Duodenum",
+"match": "duodenum",
+"fact": "The first 25 cm of the small intestine, where bile and pancreatic juice enter."
+},
+{
+"layer": "organs",
+"title": "Small intestine",
+"match": "(jejunum|ileum)",
+"fact": "About 6 m long. Its folds give it a surface area of roughly 30 m².",
+"anchor": "Jejunum"
+},
+{
+"layer": "organs",
+"title": "Large intestine",
+"match": "(colon|caecum|cecum)",
+"fact": "Absorbs water and is home to trillions of gut bacteria.",
+"anchor": "Transverse colon"
+},
+{
+"layer": "organs",
+"title": "Appendix",
+"match": "appendix",
+"fact": "May act as a reserve of good gut bacteria."
+},
+{
+"layer": "organs",
+"title": "Thyroid gland",
+"match": "thyroid gland",
+"fact": "A butterfly-shaped gland whose hormones set the body's metabolic rate.",
+"anchor": "Thyroid gland"
+},
+{
+"layer": "organs",
+"title": "Parathyroid glands",
+"match": "parathyroid",
+"fact": "Four rice-grain-sized glands that control blood calcium."
+},
+{
+"layer": "organs",
+"title": "Thymus",
+"match": "thymus",
+"fact": "Trains T cells. It is largest in childhood and mostly fat by old age."
+},
+{
+"layer": "organs",
+"title": "Salivary glands",
+"match": "(parotid|submandibular|sublingual) (gland|duct)",
+"fact": "Together they make about 1–1.5 litres of saliva a day.",
+"anchor": "Parotid gland.l"
+},
+{
+"layer": "organs",
+"title": "Tongue",
+"match": "^tongue$",
+"fact": "Its surface carries about 2,000–8,000 taste buds."
+},
+{
+"layer": "organs",
+"title": "Pharynx & larynx",
+"match": "(pharynx|epiglottis|soft palate|uvula|tonsil)",
+"fact": "The epiglottis flaps over the airway each time you swallow."
+},
+{
+"layer": "organs",
+"title": "Eye",
+"match": "(eyeball|cornea|lens|iris|retina|sclera|vitreous)",
+"fact": "The retina holds about 120 million rods and 6 million cones.",
+"anchor": "Vitreous body.l"
+},
+{
+"layer": "organs",
+"title": "Pituitary gland",
+"match": "hypophysis",
+"fact": "A pea-sized 'master gland' that controls most other hormone glands."
+},
+{
+"layer": "organs",
+"title": "Pineal gland",
+"match": "pineal",
+"fact": "Makes melatonin, which helps regulate sleep."
+},
+{
+"layer": "organs",
+"title": "Testis",
+"match": "testis|epididymis",
+"fact": "Makes sperm (about 1,500 a second) and testosterone.",
+"anchor": "Testis.l"
+},
+{
+"layer": "organs",
+"title": "Prostate",
+"match": "prostate|seminal|ejaculatory|ductus deferens",
+"fact": "A walnut-sized gland that adds fluid to semen.",
+"anchor": "Prostate"
+},
+{
+"layer": "organs",
+"title": "Penis",
+"match": "penis",
+"fact": "Erection happens when its spongy tissue fills with blood."
+},
+{
+"layer": "organs",
+"title": "Uterus",
+"match": "uterus|cervix",
+"fact": "A muscular organ about the size of a pear; in pregnancy it grows about 500-fold.",
+"anchor": "Uterus"
+},
+{
+"layer": "organs",
+"title": "Ovary",
+"match": "ovary",
+"fact": "Each one is born holding about a million egg cells.",
+"anchor": "Ovary.l"
+},
+{
+"layer": "organs",
+"title": "Uterine (fallopian) tube",
+"match": "uterine tube",
+"fact": "Fertilisation usually happens here; finger-like fimbriae catch the released egg."
+},
+{
+"layer": "organs",
+"title": "Vagina",
+"match": "vagina",
+"fact": "A muscular, elastic canal from the cervix to the outside of the body."
+},
+{
+"layer": "organs",
+"title": "Mammary gland",
+"match": "mammary",
+"fact": "Has 15–20 lobes, each draining through its own duct to the nipple.",
+"anchor": "Mammary gland.l"
+},
+{
+"layer": "brain",
+"title": "Frontal lobe",
+"match": "(frontal gyrus|frontal pole|orbital gyr|precentral|frontal lobe|gyrus rectus)",
+"fact": "Handles planning, decisions and personality. The precentral gyrus drives voluntary movement.",
+"anchor": "Superior frontal gyrus.l"
+},
+{
+"layer": "brain",
+"title": "Parietal lobe",
+"match": "(postcentral|parietal lobule|supramarginal|angular gyrus|precuneus|parietal lobe)",
+"fact": "Processes touch and body position; the postcentral gyrus is a map of the skin.",
+"anchor": "Superior parietal lobule.r"
+},
+{
+"layer": "brain",
+"title": "Temporal lobe",
+"match": "(temporal gyrus|temporal pole|temporal lobe|fusiform|heschl|transverse temporal)",
+"fact": "Processes hearing, language comprehension and memory.",
+"anchor": "Middle temporal gyrus.l"
+},
+{
+"layer": "brain",
+"title": "Occipital lobe",
+"match": "(occipital gyr|occipital pole|cuneus|lingual gyrus|occipital lobe|calcarine)",
+"fact": "The visual cortex; damage here can cause blindness even when the eyes are healthy.",
+"anchor": "Cuneus.r"
+},
+{
+"layer": "brain",
+"title": "Limbic system",
+"match": "(cingulate|hippocamp|amygdal|fornix|parahippocampal|mammillary)",
+"fact": "Handles emotion and memory. The hippocampus forms new memories.",
+"anchor": "Hippocampus.l"
+},
+{
+"layer": "brain",
+"title": "Insula",
+"match": "insula",
+"fact": "Senses the body's inner state: heartbeat, hunger, disgust."
+},
+{
+"layer": "brain",
+"title": "Corpus callosum",
+"match": "corpus callosum",
+"fact": "About 200 million nerve fibres connecting the left and right hemispheres.",
+"anchor": "Corpus callosum"
+},
+{
+"layer": "brain",
+"title": "Basal ganglia",
+"match": "(caudate|putamen|globus pallidus|lentiform|substantia nigra|subthalamic)",
+"fact": "Help start and smooth movement; they are damaged in Parkinson's disease."
+},
+{
+"layer": "brain",
+"title": "Thalamus & hypothalamus",
+"match": "(thalam|hypothal|habenula)",
+"fact": "The thalamus relays sensory signals to the cortex; the hypothalamus controls hunger, temperature and hormones.",
+"anchor": "Thalamus.l"
+},
+{
+"layer": "brain",
+"title": "Cerebellum",
+"match": "(cerebell|vermis|lobule|flocculus|culmen|declive|tonsil of cerebellum|nodule|uvula of vermis|lingula|central lobule|tuber|pyramid)",
+"fact": "Holds more than half the brain's neurons in a tenth of its volume, and coordinates movement.",
+"anchor": "Biventral lobule.l"
+},
+{
+"layer": "brain",
+"title": "Brainstem",
+"match": "(midbrain|pons|medulla|peduncle|colliculus|olive|pyramid of medulla)",
+"fact": "Controls breathing, heart rate and consciousness.",
+"anchor": "Pons.l"
+},
+{
+"layer": "brain",
+"title": "Ventricles",
+"match": "(ventricle|aqueduct|choroid)",
+"fact": "Hollow spaces that make about 500 ml of cerebrospinal fluid a day."
+},
+{
+"layer": "brain",
+"title": "Spinal cord",
+"match": "spinal cord|cauda equina|conus medullaris|filum",
+"fact": "About 45 cm long and roughly as thick as a finger."
+}
+]
